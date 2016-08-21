@@ -1,0 +1,53 @@
+try
+    light1.SendRawCommand('Dark');
+catch
+    light1.SendRawCommand('Dark');
+end
+try
+    light2.SendRawCommand('Dark');
+catch
+    light2.SendRawCommand('Dark');
+end
+try
+    light3.SendRawCommand('Dark');
+catch
+    light3.SendRawCommand('Dark');
+end
+try
+    light4.SendRawCommand('Dark');
+catch
+    light4.SendRawCommand('Dark');
+end
+try
+    light5.SendRawCommand('Dark');
+catch
+    light5.SendRawCommand('Dark');
+end
+try
+    light6.SendRawCommand('Dark');
+catch
+    light6.SendRawCommand('Dark');
+end
+try
+    light7.SendRawCommand('Dark');
+catch
+    light7.SendRawCommand('Dark');
+end
+try
+    light8.SendRawCommand('Dark');
+catch
+    light8.SendRawCommand('Dark');
+end
+try
+    light9.SendRawCommand('Dark');
+catch
+    light9.SendRawCommand('Dark');
+end
+try
+    light10.SendRawCommand('Dark');
+catch
+    light10.SendRawCommand('Dark');
+end
+
+u_des=0.01*repmat(permute(M(5,27,1:5),[3,2,1]), 10, 1);
+dim(u_des);

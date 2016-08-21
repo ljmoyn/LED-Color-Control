@@ -1,0 +1,11 @@
+daylighting with 5-8-15 data
+
+set point is 
+.0668
+.1613
+.6145
+.0023
+.5251
+
+ideal is daylight2
+constraints were .01 jnds and 500 lux

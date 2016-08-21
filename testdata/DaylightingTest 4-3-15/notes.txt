@@ -1,0 +1,2 @@
+set point for this test: [.19023;.5738;.53682;.001098;.72773]
+optimizer settings: CRI weight, JNDs < .01, lux > 450

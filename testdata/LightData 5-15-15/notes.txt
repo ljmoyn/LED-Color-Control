@@ -1,0 +1,8 @@
+Cloudy ---> Sky was completely covered in clouds, but they were not extremely thick. Taken at 9:45 am.
+
+set point --> 
+.08753
+.20914
+.79365
+.0001
+.69192
