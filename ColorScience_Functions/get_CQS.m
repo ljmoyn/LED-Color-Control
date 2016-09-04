@@ -119,7 +119,7 @@ function [CQS] = get_CQS(testsourcespd,referencesourcespd,cmf,CIETCS1nm,Waveleng
     if dC <=0
         dE_sat=dE;
     else
-        dE_sat=(dE.^2+dC.^2).^(1/2);
+        dE_sat=(dE.^2-dC.^2).^(1/2);
     end
     
     %rms rather than simple averaging of the color differences for each
